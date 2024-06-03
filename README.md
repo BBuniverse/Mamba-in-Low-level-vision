@@ -1,6 +1,7 @@
-# [Mamba-in-Low-level-vision](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=mamba&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22state+space+model%22&terms-1-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2024&date-to_date=&date-date_type=submitted_date_first&abstracts=show&size=200&order=-announced_date_first&start=0)
+[Mamba-in-Low-level-vision](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=mamba&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22state+space+model%22&terms-1-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2024&date-to_date=&date-date_type=submitted_date_first&abstracts=show&size=200&order=-announced_date_first&start=0)
 
-[toc]
+<!--ts-->
+<!--te-->
 
 ## Image Restoration
 
@@ -28,7 +29,7 @@
 
 2024-04-15 [HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising](https://arxiv.org/abs/2404.09697)
 
-￼<img src="./assets/HSIDMamba.png" alt="HSIDMamba" style="zoom:50%;" />
+<img src="./assets/HSIDMamba.png" alt="HSIDMamba" style="zoom:50%;" />
 
 ## Image Deblur
 
@@ -122,9 +123,9 @@
 
 <img src="./assets/LE-Mamba.png" alt="LE-Mamba" style="zoom:50%;" />
 
-2024-04-12 [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion
+2024-04-12 [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion](https://arxiv.org/abs/2404.08406)
 
-<img src="./assets/MambaDFuse.png" alt="MambaDFuse" style="zoom:50%;" />](https://arxiv.org/abs/2404.08406)
+<img src="./assets/MambaDFuse.png" alt="MambaDFuse" style="zoom:50%;" />
 
 2024-03-10 [FusionMamba: Efficient Image Fusion with State Space Model](https://arxiv.org/abs/2404.07932) [![Stars](https://img.shields.io/github/stars/PSRben/FusionMamba)](https://github.com/PSRben/FusionMamba)
 
