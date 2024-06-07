@@ -37,6 +37,10 @@
 
 ## Image Denoising
 
+2024-06-01 [Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging](https://arxiv.org/abs/2406.00449) [![Stars](https://img.shields.io/github/stars/JiahuaDong/DHM)](https://github.com/JiahuaDong/DHM)
+
+<img src="./assets/DHM.png" alt="DHM" style="zoom:50%;" />
+
 2024-05-02 [SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising](https://arxiv.org/abs/2405.01726) [![Stars](https://img.shields.io/github/stars/lronkitty/SSUMamba)](https://github.com/lronkitty/SSUMamba)
 
 <img src="./assets/SSASmamba.png" alt="SSASmamba" style="zoom:50%;" />
@@ -80,6 +84,10 @@
 <img src="./assets/FreqMamba.png" alt="FreqMamba" style="zoom:50%;" />
 
 ## Low Light Enhancement
+
+2024-06-03 [LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network](https://arxiv.org/abs/2406.01028)
+
+<img src="./assets/LLEMamba.png" alt="LLEMamba" style="zoom:50%;" />
 
 2024-05-25 [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://arxiv.org/abs/2405.16105)
 
