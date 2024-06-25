@@ -99,6 +99,14 @@
 
 ## Image Super-Resolution
 
+2024-06-23 [Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning](https://arxiv.org/abs/2406.16083)
+
+<img src="./assets/MLFSR.png" alt="MLFSR" style="zoom:50%;" />
+
+2024-06-18 [LFMamba: Light Field Image Super-Resolution with State Space Model](https://arxiv.org/abs/2406.12463)
+
+<img src="./assets/LFMamba.png" alt="LFmamba" style="zoom:50%;" />
+
 2024-05-16 [IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model](https://arxiv.org/abs/2405.09873) [![Stars](https://img.shields.io/github/stars/yongsongH/IRSRMamba)](https://github.com/yongsongH/IRSRMamba)
 
 <img src="./assets/IRSRMamba.png" alt="IRSRMamba" style="zoom:50%;" />
@@ -154,6 +162,10 @@
 <img src="./assets/FusionMamba.png" alt="FusionMamba" style="zoom:50%;" />
 
 ## Underwater Image Enhancement
+
+2024-06-12 [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/pdf/2406.08444) [![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)](https://github.com/weitunglin/pixmamba)
+
+<img src="./assets/PixMamba.png" alt="PixMamba" style="zoom:50%;" />
 
 2024-05-14 [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419)
 
