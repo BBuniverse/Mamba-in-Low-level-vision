@@ -85,6 +85,8 @@
 
 ## Low Light Enhancement
 
+2024-07-03 [BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement](https://arxiv.org/abs/2407.03535)
+
 2024-06-03 [LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network](https://arxiv.org/abs/2406.01028)
 
 <img src="./assets/LLEMamba.png" alt="LLEMamba" style="zoom:50%;" />
@@ -98,6 +100,12 @@
 <img src="./assets/IFVM.png" alt="IFVM" style="zoom:50%;" />
 
 ## Image Super-Resolution
+
+2024-07-08 [Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution](https://arxiv.org/abs/2407.05993)
+
+2024-07-08 [Deform-Mamba Network for MRI Super-Resolution](https://arxiv.org/abs/2407.05969)
+
+<img src="./assets/Deform-Mamba.png" alt="Deform-Mamba" style="zoom:50%;" />
 
 2024-06-23 [Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning](https://arxiv.org/abs/2406.16083)
 
