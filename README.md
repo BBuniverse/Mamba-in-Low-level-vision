@@ -19,6 +19,10 @@
 
 ## Image Restoration
 
+2024-08-19 [Multi-Scale Representation Learning for Image Restoration with State-Space Model](https://arxiv.org/abs/2408.10145)
+
+<img src="./assets/MS-Mamba.png" alt="MS-Mamba" style="zoom:50%;" />
+
 2024-04-17 [CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration](https://arxiv.org/abs/2404.11778)
 
 <img src="./assets/CU-Mamba.png" alt="CU-Mamba" style="zoom:40%;" />
@@ -31,7 +35,7 @@
 
 <img src="./assets/VmambaIR.png" alt="VmambaIR" style="zoom:50%;" />
 
-2024-02-23 [MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648) [![Stars](https://img.shields.io/github/stars/csguoh/MambaIR)](https://github.com/csguoh/MambaIR)
+2024-02-23 [MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648) ECCV [![Stars](https://img.shields.io/github/stars/csguoh/MambaIR)](https://github.com/csguoh/MambaIR)
 
 <img src="./assets/MambaIR.png" alt="MambaIR" style="zoom:50%;" />
 
@@ -71,6 +75,10 @@
 
 ## Image Deraining
 
+2024-07-31 [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining](https://arxiv.org/abs/2407.21773v1) ACM-MM Oral [![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)](https://github.com/TonyHongtaoWu/RainMamba)
+
+<img src="./assets/RainMamba.png" alt="RainMamba.png" style="zoom:50%;" />
+
 2024-05-29 [FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining](https://arxiv.org/abs/2405.19450)
 
 <img src="./assets/FourierMamba.png" alt="FourierMamba.png" style="zoom:50%;" />
@@ -79,11 +87,21 @@
 
 <img src="./assets/DFSSM.png" alt="DFSSM" style="zoom:50%;" />
 
-2024-04-15 [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476)
+2024-04-15 [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) ACM-MM [![Stars](https://img.shields.io/github/stars/aSleepyTree/FreqMamba)](https://github.com/aSleepyTree/FreqMamba)
 
 <img src="./assets/FreqMamba.png" alt="FreqMamba" style="zoom:50%;" />
 
+## Video Demoireing
+
+2024-08-20 [DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba](https://arxiv.org/abs/2408.10679)
+
+<img src="./assets/DemMamba.png" alt="DemMamba" style="zoom:50%;" />
+
 ## Low Light Enhancement
+
+2024-08-02 [Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement](https://arxiv.org/abs/2408.01276)
+
+<img src="./assets/Wave-Mamba.png" alt="Wave-Mamba" style="zoom:50%;" />
 
 2024-07-03 [BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement](https://arxiv.org/abs/2407.03535)
 
@@ -100,6 +118,10 @@
 <img src="./assets/IFVM.png" alt="IFVM" style="zoom:50%;" />
 
 ## Image Super-Resolution
+
+2024-08-16 [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/abs/2408.08665)
+
+<img src="./assets/QMambaBSR.png" alt="QMambaBSR" style="zoom:50%;" />
 
 2024-07-08 [Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution](https://arxiv.org/abs/2407.05993)
 
