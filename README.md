@@ -6,6 +6,7 @@
    * [Image Deblur](#image-deblur)
    * [Image Dehazing](#image-dehazing)
    * [Image Deraining](#image-deraining)
+   * [Video Demoireing](#video-demoireing)
    * [Low Light Enhancement](#low-light-enhancement)
    * [Image Super-Resolution](#image-super-resolution)
    * [Image Rectonstruction](#image-rectonstruction)
@@ -13,7 +14,7 @@
    * [Underwater Image Enhancement](#underwater-image-enhancement)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Sat Jul 13 04:35:24 UTC 2024 -->
+<!-- Added by: runner, at: Thu Aug 22 00:37:45 UTC 2024 -->
 
 <!--te-->
 
