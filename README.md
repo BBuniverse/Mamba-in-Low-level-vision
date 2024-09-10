@@ -76,6 +76,10 @@
 
 ## Image Deraining
 
+2024-08-31 [A Hybrid Transformer-Mamba Network for Single Image Deraining](https://arxiv.org/abs/2409.00410) [![Stars](https://img.shields.io/github/stars/sunshangquan/TransMamba)](https://github.com/sunshangquan/TransMamba)
+
+<img src="./assets/TransMamba.png" alt="TransMamba" style="zoom:50%;" />
+
 2024-07-31 [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining](https://arxiv.org/abs/2407.21773v1) ACM-MM Oral [![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)](https://github.com/TonyHongtaoWu/RainMamba)
 
 <img src="./assets/RainMamba.png" alt="RainMamba.png" style="zoom:50%;" />
@@ -119,6 +123,10 @@
 <img src="./assets/IFVM.png" alt="IFVM" style="zoom:50%;" />
 
 ## Image Super-Resolution
+
+2024-08-21 [MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs](https://arxiv.org/abs/2408.11758)[![Stars](https://img.shields.io/github/stars/renyulin-f/MambaCSR)](https://github.com/renyulin-f/MambaCSR)
+
+<img src="./assets/MambaCSR.png" alt="image-20240822133433715" style="zoom:50%;" />
 
 2024-08-16 [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/abs/2408.08665)
 
@@ -172,6 +180,10 @@
 
 ## Image Fusion
 
+2024-09-03 [Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion](https://arxiv.org/abs/2409.01728)
+
+<img src="./assets/ShuffleMamba.png" alt="ShuffleMamba" style="zoom:50%;" />
+
 2024-05-31 [S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion](https://arxiv.org/abs/2405.20881)
 
 <img src="./assets/S4Fusion.png" alt="S4Fusion" style="zoom:50%;" />
@@ -193,6 +205,10 @@
 <img src="./assets/FusionMamba.png" alt="FusionMamba" style="zoom:50%;" />
 
 ## Underwater Image Enhancement
+
+2024-08-23 [O-Mamba: O-shape State-Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2408.12816) [![Stars](https://img.shields.io/github/stars/chenydong/O-Mamba)](https://github.com/chenydong/O-Mamba)
+
+<img src="./assets/O-Mamba.png" alt="O-Mamba" style="zoom:50%;" />
 
 2024-06-12 [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/pdf/2406.08444) [![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)](https://github.com/weitunglin/pixmamba)
 
